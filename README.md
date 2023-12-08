@@ -3,7 +3,7 @@
 In development.
 
 # Introduction
-UniVFS is a project enfocated know more about development in C and making a module in C for NodeJS with Node-API (ABI).
+UniVFS is a project enfocated learn more about development in C and making a module in C for NodeJS with Node-API (ABI).
 
 Is basically a virtual file system where you will:
 
