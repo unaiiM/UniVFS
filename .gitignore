@@ -19,3 +19,5 @@ gprof.out
 src/foo-test
 libfoo.a
 libbar.a
+
+disks
